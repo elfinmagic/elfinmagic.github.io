@@ -7,3 +7,7 @@ function duh(n) {
   console.log(duh);
 }
 ```
+
+``` sh
+$ curl http://www.apple.com/index.html
+```
